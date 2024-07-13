@@ -17,7 +17,7 @@ sudo apt-get update && sudo apt-get install -y curl wget
 ```
 
 ---
-- 短链接命令，有时候会抽风的，用不了，如果用不了就用此命令
+- 命令行安装
 ```sh
 bash <(curl -fsSL https://github.com/oppen321/ubuntu-build/main/local.sh)
 ```
